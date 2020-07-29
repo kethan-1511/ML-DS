@@ -1,2 +1,1 @@
-# ML-DS
-Jupyter Notebook
+# ML-D
